@@ -1,8 +1,4 @@
-Great — here's your **perfectly formatted, copy-paste-ready `README.md`** that will impress reviewers and work flawlessly on GitHub:
 
----
-
-### ✅ Final `README.md` (copy-paste everything below as-is):
 
 ````markdown
 # ⚡ Electricity Cost Prediction API
