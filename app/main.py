@@ -10,7 +10,7 @@ def lowercase_columns(df):
             df[column] = df[column].str.lower()
     return df
 
-# Register it before loading the model
+
 import __main__
 __main__.lowercase_columns = lowercase_columns
 
