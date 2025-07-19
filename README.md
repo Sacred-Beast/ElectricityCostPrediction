@@ -6,7 +6,7 @@ Welcome to the **Electricity Cost Prediction API**! This project is your gateway
 
 ## 🌐 Live API
 
-🔗 **Base URL**: [https://electricity-cost-api.onrender.com](https://electricity-cost-api.onrender.com)
+🔗 **Base URL**: [https://electricity-cost-api.onrender.com/docs](https://electricity-cost-api.onrender.com/docs)
 
 ### Endpoints
 
@@ -148,7 +148,7 @@ The API is deployed on **Render**, ensuring high availability and scalability. K
 
 * ✅ FastAPI app served with **Uvicorn**
 * ✅ Automated deployment using `render.yaml`
-* ✅ Accessible at: [https://electricity-cost-api.onrender.com](https://electricity-cost-api.onrender.com)
+* ✅ Accessible at: [https://electricity-cost-api.onrender.com/docs](https://electricity-cost-api.onrender.com/docs)
 
 ---
 
