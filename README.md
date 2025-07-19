@@ -1,4 +1,3 @@
-````markdown
 # ⚡ Electricity Cost Prediction API
 
 Welcome to the **Electricity Cost Prediction API**! This project is your gateway to predicting monthly electricity costs for residential and commercial structures using cutting-edge Machine Learning techniques. Whether you're a homeowner, business owner, or data enthusiast, this API is designed to provide accurate predictions based on environmental and structural features.
@@ -161,4 +160,3 @@ This project is open-source and licensed under the **MIT License**. Feel free to
 ---
 
 Thank you for exploring the Electricity Cost Prediction API! If you have any questions or feedback, feel free to reach out. Happy predicting! 🚀
-````
